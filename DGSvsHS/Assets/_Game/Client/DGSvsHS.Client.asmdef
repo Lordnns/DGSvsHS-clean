@@ -1,0 +1,19 @@
+{
+    "name": "DGSvsHS.Client",
+    "rootNamespace": "DGSvsHS.Client",
+    "references": [
+        "DGSvsHS.Gameplay",
+        "DGSvsHS.Net",
+        "DGSvsHS.Net.Quic",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
