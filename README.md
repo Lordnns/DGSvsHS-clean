@@ -1,7 +1,7 @@
 # DGSvsHS — Scenario-Dependent Energy Efficiency of ECS Dedicated Game Servers
 
 Reproducible benchmark harness for the paper **"Scenario-Dependent Energy Efficiency of ECS
-Dedicated Game Servers"** (IEEE GEM 2026 — `2026_IEEE_GEM_Samuel (3).pdf` in this repo).
+Dedicated Game Servers"**.
 
 The study holds one cooperative survivor-shooter workload fixed and reproduces it **bit-for-bit
 across three ECS dedicated-server runtimes**, varying only the server engine and measuring
